@@ -1,0 +1,1 @@
+Type the command on the shell (you connect it through terminal)
